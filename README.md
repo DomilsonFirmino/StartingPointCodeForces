@@ -1,12 +1,12 @@
-# Plataforma de para Programação Competitiva no Isutic
+# Plataforma para partilhar e mapear problemas do codeforces para iniciantes
 
 ## Visão Geral
 
-Bem-vindo à nossa plataforma dedicada à jornada da programação competitiva, especialmente projetada para os estudantes do Isutic. Nosso principal objetivo é simplificar a administração dos alunos, proporcionando um ambiente eficiente para gerenciar assiduidade, comprometimento e aprimorar o desempenho com base nos dados fornecidos pela API do Codeforces.
+Bem-vindo à nossa plataforma dedicada à jornada da programação competitiva, especialmente projetada inicialmente para os estudantes do Isutic. Nosso principal objetivo é  proporcionar um ambiente eficiente para permitir um começo simples mas bem guiado
 
 ## Agradecimentos
 
-Agradecemos a todos os membros ativos do ICPC no INSTIC com conta no Codeforces por fazerem parte desta comunidade. Juntos, estamos construindo um espaço inspirador para o desenvolvimento na programação competitiva.
+Agradecemos a todos os membros ativos do ICPC no INSTIC com conta no Codeforces por fazerem parte desta comunidade. 
 
 ## Link
 
